@@ -26,13 +26,13 @@ Follow these steps to set up the application:
 1. **Clone the Repository**
 
    
-    git clone https://github.com/yourusername/file-management-app.git
+    git clone https://github.com/msaShahid/file-management-system.git
     
 
 2. **Navigate to the Project Directory**
 
    
-    cd file-management-app
+    cd file-management-system
     
 
 3. **Install PHP Dependencies**
