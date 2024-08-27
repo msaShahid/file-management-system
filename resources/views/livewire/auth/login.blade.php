@@ -36,6 +36,14 @@
                     <span>Submit</span>
                 </button>
             </div>
+            <div class="row mb-2 items-center">
+                <div class="col-md-8 offset-md-4">
+                    <br/>
+                    <a href="{{ route('google.redirect') }}">
+                        <img src="https://developers.google.com/identity/images/btn_google_signin_dark_normal_web.png">
+                    </a>
+                </div>
+            </div>
             <p class="text-center"> -- OR --</p>
             <p class="text-center">Don't have an account ?<a href="{{ route('register') }}" wire:navigate class="text-primary font-bold"> Register</a></p>
 
